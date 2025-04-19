@@ -21,7 +21,7 @@ Este proyecto busca reunir soluciones a los desafíos del programa **Oracle ONE*
 
 Aquí encontrarás los diferentes desafíos abordados en este repositorio:
 
-- 📌 **Desafío 1:** Descripción del primer desafío.
+- 📌 **Desafío 1:** (https://github.com/EmmanuelMontes/oracle-one-data-science-challenges/tree/main/Desafio_1)
 - 📌 **Desafío 2:** Descripción del segundo desafío.
 - 📌 **Desafío 3:** Descripción del tercer desafío.
 
