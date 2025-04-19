@@ -87,7 +87,7 @@ El análisis desarrollado permite:
 
 Puedes acceder a los archivos del proyecto en el siguiente repositorio de GitHub:
 
-[Enlace al Repositorio de GitHub](https://github.com/EmmanuelMontes/oracle-one-data-science-challenges/Desafio_1)
+[Enlace al Repositorio de GitHub](https://github.com/EmmanuelMontes/oracle-one-data-science-challenges/tree/main/Desafio_1)
 
 ¡Te invitamos a explorar el código, ejecutar el notebook y contribuir al proyecto!
 
