@@ -57,7 +57,7 @@ Para ejecutar el notebook de análisis, sigue estos pasos:
 
 5.  **Ejecuta Jupyter Notebook:**
     ```bash
-    jupyter notebook analisis_tienda_sucursales.ipynb
+    jupyter notebook Desafio_1.ipynb
     ```
 
     Esto abrirá el notebook en tu navegador web. Sigue las celdas del notebook para ejecutar el análisis paso a paso. Asegúrate de tener los archivos de datos necesarios en la carpeta `data/`.
@@ -87,7 +87,7 @@ El análisis desarrollado permite:
 
 Puedes acceder a los archivos del proyecto en el siguiente repositorio de GitHub:
 
-[Enlace al Repositorio de GitHub](https://github.com/tu-usuario/tu-repositorio)
+[Enlace al Repositorio de GitHub](https://github.com/EmmanuelMontes/oracle-one-data-science-challenges/Desafio_1)
 
 ¡Te invitamos a explorar el código, ejecutar el notebook y contribuir al proyecto!
 
@@ -106,15 +106,13 @@ Puedes acceder a los archivos del proyecto en el siguiente repositorio de GitHub
 
 Agradecemos a las siguientes personas por su contribución a este proyecto:
 
-- [Nombre del Contribuyente 1](https://github.com/usuario-contribuyente-1)
-- [Nombre del Contribuyente 2](https://github.com/usuario-contribuyente-2)
-- ... (Añade más contribuyentes según sea necesario)
+- [Emmanuel monets Lugo](https://github.com/EmmanuelMontes)
 
 ## 👨‍💻 Personas Desarrolladoras del Proyecto
 
 Este proyecto fue desarrollado por:
 
-- [Tu Nombre](https://github.com/tu-usuario)
+- [Emmanuel monets Lugo](https://github.com/EmmanuelMontes)
 
 ## 📄 Licencia
 
